@@ -1,6 +1,6 @@
 # eungihong.github.io
 
-[myLink] (https://open.kakao.com/o/gUIcuQfb)
+[myLink](https://open.kakao.com/o/gUIcuQfb)
 
 ## Hello world
 
